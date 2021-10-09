@@ -1,0 +1,15 @@
+{
+  "name": "iti-sass",
+  "version": "1.0.0",
+  "description": "sass project for iti by mohamed elhawary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch scss -o css"
+  },
+  "author": "Mohamed ElHawary",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^6.0.1"
+  }
+}
